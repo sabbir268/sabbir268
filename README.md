@@ -44,4 +44,4 @@ Innovative tech mind with 4+ years of experience working as a full-stack Web Dev
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/?username=lgope&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
+<img src="https://github-readme-stats.vercel.app/api/?username=sabbir268&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
