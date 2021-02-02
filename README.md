@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 Innovative tech mind with 4+ years of experience working as a full-stack Web Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field. 
 
-- 🔭 I’m currently working on DevOps,
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on NodeJs,
+- 🌱 I’m currently learning GoLang
 - 💬 Ask me about #Laravel #PHP #NodeJS #MySQL #Linux
 - 😄 Pronouns: Sābbira hōsā'ina
 - ⚡ Fun fact: Can read book & watch movies for day long
