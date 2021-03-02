@@ -32,7 +32,7 @@ Innovative tech mind with 4+ years of experience working as a full-stack Web Dev
 
 ## {...} My Stack 💻🚀
 
-```json
+```js
 {
   Languages: ['PHP', 'JavaScript', 'C', 'Java', 'Python'],
   Framework: ['NodeJs/Express', 'Laravel'],
