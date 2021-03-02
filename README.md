@@ -34,11 +34,11 @@ Innovative tech mind with 4+ years of experience working as a full-stack Web Dev
 
 ```js
 {
-  Languages: ['JavaScript', 'PHP', 'Python', 'C', 'Java'],
+  Languages: ['JavaScript', 'PHP','C', 'Java','Python'],
   Framework: ['NodeJs/Express', 'Laravel'],
-  Frontend: ['ReactJs', 'VueJs'],
-  Databases: ['MongoDB', "SQL"],
-  Tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Trello', 'Slack'],
+  Frontend: ['VueJs','ReactJs'],
+  Databases: ['MySql','PostgreSql','GraphQl','MongoDB'],
+  Tools: ['Docker','Postman','Trello/Clickup', 'Slack'],
   Cloud: ['AWS', 'DigitalOcean'],
   Open Source: ['Git, GitHub']
 }
