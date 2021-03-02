@@ -40,7 +40,7 @@ Innovative tech mind with 4+ years of experience working as a full-stack Web Dev
   Databases: ['MySql', 'PostgreSql', 'GraphQl', 'MongoDB'],
   Tools: ['Docker', 'Postman', 'Trello/Clickup', 'Slack'],
   Cloud: ['AWS', 'DigitalOcean'],
-  Open Source: ['Git, 'GitHub']
+  OpenSource: ['Git, 'GitHub']
 }
 ```
 
