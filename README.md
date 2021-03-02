@@ -32,15 +32,15 @@ Innovative tech mind with 4+ years of experience working as a full-stack Web Dev
 
 ## {...} My Stack 💻🚀
 
-```js
+```json
 {
-  Languages: ['JavaScript', 'PHP','C', 'Java','Python'],
+  Languages: ['PHP', 'JavaScript', 'C', 'Java', 'Python'],
   Framework: ['NodeJs/Express', 'Laravel'],
-  Frontend: ['VueJs','ReactJs'],
-  Databases: ['MySql','PostgreSql','GraphQl','MongoDB'],
-  Tools: ['Docker','Postman','Trello/Clickup', 'Slack'],
+  Frontend: ['VueJs', 'ReactJs'],
+  Databases: ['MySql', 'PostgreSql', 'GraphQl', 'MongoDB'],
+  Tools: ['Docker', 'Postman', 'Trello/Clickup', 'Slack'],
   Cloud: ['AWS', 'DigitalOcean'],
-  Open Source: ['Git, GitHub']
+  Open Source: ['Git, 'GitHub']
 }
 ```
 
