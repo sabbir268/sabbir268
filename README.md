@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**lgope/lgope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sabbir268/sabbir268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Sabbir Hossain
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/iamsabbir68/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lakshman35-2256@diu.edu.bd)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sabbir.hossain2668@gmail.com)
 
 Innovative tech mind with 4+ years of experience working as a full-stack Web Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field. 
 
